@@ -1,0 +1,6 @@
+framework module Pods_caloriepicUITests {
+  umbrella header "Pods-caloriepicUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
